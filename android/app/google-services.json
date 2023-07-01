@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "911576985036",
+    "project_id": "gerenteappclaudio-e148d",
+    "storage_bucket": "gerenteappclaudio-e148d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:911576985036:android:94e5be681ec6d0e2148169",
+        "android_client_info": {
+          "package_name": "com.example.gerente_de_apps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "911576985036-96g3gr1cp91u38n3ndvivcpg9bl8n6r2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3DOBMTK0DdUbLDiiIzTz_o5xft5-DtcQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "911576985036-96g3gr1cp91u38n3ndvivcpg9bl8n6r2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "911576985036-m608iucm1mg08140q0odr3csrtn27m96.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.gerenteDeApps"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
