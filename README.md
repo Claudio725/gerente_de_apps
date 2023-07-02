@@ -1,16 +1,16 @@
 # gerente_de_apps
 
-A new Flutter project.
+Projeto final de Flutter - INfnet
 
-## Getting Started
+## Procedimentos Firebase
 
-This project is a starting point for a Flutter application.
+Neste projeto usei autenticação do usuário Firebase na tela de abertura,
+e nas telas de listagem utilizei APIs para trazer os valores utilizados
+no banco de dados.
 
-A few resources to get you started if this is your first Flutter project:
+Realizei testes unitários na Classe Counter que é a mesma utilizada para a criaçao
+do pacote solicitado.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Realizei os passos de abertura do deploy, porém não consegui finalizar o processo devido
+- ao nome do pacote não ser aceito pela Playstore.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
